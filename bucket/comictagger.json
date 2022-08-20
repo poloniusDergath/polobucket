@@ -1,9 +1,9 @@
 {
-    "version": "1.4.7",
+    "version": "1.4.8",
     "description": "ComicTagger is a multi-platform app for writing metadata to digital comics, written in Python and PyQt.",
     "homepage": "https://github.com/comictagger/comictagger",
-    "url": "https://github.com/comictagger/comictagger/releases/download/1.4.7/ComicTagger-1.4.7-win-AMD64.exe.zip",
-    "hash": "12a8eda38cf2d2eff3f739defdb269a68be3dfd21c3bd4b39ed225811ccdcbc6",
+    "url": "https://github.com/comictagger/comictagger/releases/download/1.4.8/ComicTagger-1.4.8-win-AMD64.exe.zip",
+    "hash": "d627b48b9e3672284e49aa5764449332bec3c1791da2dee0bd355cbc0628ec22",
     "bin": "comictagger.exe",
     "shortcuts": [
         [
