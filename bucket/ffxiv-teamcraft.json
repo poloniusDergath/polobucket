@@ -1,5 +1,5 @@
 {
-    "version": "10.0.3",
+    "version": "10.0.4",
     "description": "Collaborative crafting tool for Final Fantasy XIV",
     "homepage": "https://github.com/ffxiv-teamcraft/ffxiv-teamcraft",
     "license": "MIT",
@@ -11,12 +11,12 @@
     },
     "checkver": "github",
     "extract_dir": "lib\\net45",
-    "hash": "sha1:6e086f69d6c2f0c8a1175cc42a5ff9ee3dae8acc",
+    "hash": "sha1:2b2b79623ad658c93d1eb9c98b9a9762b24d080e",
     "shortcuts": [
         [
             "FFXIV Teamcraft.exe",
             "FFXIV Teamcraft"
         ]
     ],
-    "url": "https://github.com/ffxiv-teamcraft/ffxiv-teamcraft/releases/download/v10.0.3/ffxiv-teamcraft-10.0.3-full.nupkg"
+    "url": "https://github.com/ffxiv-teamcraft/ffxiv-teamcraft/releases/download/v10.0.4/ffxiv-teamcraft-10.0.4-full.nupkg"
 }
